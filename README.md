@@ -13,3 +13,6 @@ Table of contents:<br>
   - this program is a little more advanced as it draws a little more complicated shape 
 - [Star](https://github.com/leja123/turtle-graphics/blob/master/star.py)
   - it draws a star 
+- [House](https://github.com/leja123/turtle-graphics/blob/master/house.py)
+  - it draws a simple house
+
